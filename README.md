@@ -1,86 +1,131 @@
+
+<div align="center">
+
 # 👋 Hola, soy Daniel Dobles
 
-**Design Engineer** — Web prototyping · Product design · AI video/ads · Design engineering
+**Design Engineer & Creative Technologist**  
+*Uniendo la precisión del diseño de producto con la arquitectura de código y pipelines de IA generativa.*
 
-Busco oportunidades en **España (Barcelona/Madrid) y LATAM** (México, Colombia, Argentina, Chile, Brasil) como **Design Engineer** en agencias de marketing y empresas de producto. También abierto a **freelance/consulting** para agencias y startups que necesiten servicios de diseño + IA.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Dobles-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldobles)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danieldobles.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://danieldobles.dev)
+[![Behance](https://img.shields.io/badge/Behance-armonia__push-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/armonia_push)
+[![X / Twitter](https://img.shields.io/badge/X-@DanielDobl3s-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/DanielDobl3s)
+[![Email](https://img.shields.io/badge/Email-hola@danieldobles.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hola@danieldobles.dev)
 
----
-
-## 🎯 Qué hago
-
-| Área | Descripción |
-|------|-------------|
-| 🌐 **Web Prototyping** | Prototipos interactivos de alta fidelidad (Figma, Framer, React/Next.js, Tailwind) |
-| 🎨 **Product Design** | Sistemas de diseño, design systems, UI/UX para productos digitales end-to-end |
-| 🤖 **AI Video/Ads** | Generación de video y creativos publicitarios con IA (Runway, Sora, Kling, ComfyUI, FLUX) |
-| ⚙️ **Design Engineering** | Puentes diseño-código: componentes React, motion design, handoff técnico, design tokens |
+</div>
 
 ---
 
-## 🛠 Stack técnico
+## 🎯 Especialidad y Propuesta de Valor
 
-**Design & Prototyping**  
-`Figma` `Framer` `Principle` `Rive` `Spline` `After Effects`
-
-**Frontend / Code**  
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `GSAP` `Three.js` `Astro`
-
-**AI & Generative**  
-`Runway Gen-3` `Kling` `Luma Dream Machine` `ComfyUI` `FLUX` `Midjourney` `Suno` `ElevenLabs` `Edge TTS`
-
-**Tooling & Workflow**  
-`Git/GitHub` `Vercel` `Netlify` `Storybook` `Chromatic` `Linear` `Notion` `Obsidian`
+| Área | Enfoque & Capacidades |
+|---|---|
+| ⚙️ **Design Engineering** | Cierre de brecha entre diseño y frontend: bibliotecas de componentes accesibles, sincronización de design tokens y microinteracciones fluidas. |
+| 🤖 **AI Video & Creative Automation** | Arquitectura de pipelines generativos para producción audiovisual y creativos publicitarios a escala (image-to-video, control de keyframes y batch processing). |
+| 🌐 **Prototipado Interactivo Avanzado** | Prototipos de alta fidelidad con datos dinámicos en código para validar experiencias complejas y flujos SaaS antes de desarrollo. |
+| 📐 **Product Design & Systems** | Diseño de interfaces end-to-end, arquitectura de información y sistemas de diseño escalables. |
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠 Stack Tecnológico
+
+<details open>
+<summary><b>Frontend & Motion Engineering</b></summary>
+<br>
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `GSAP` `Three.js / R3F` `Astro` `HTML5 / Semantic Web`
+</details>
+
+<details open>
+<summary><b>AI Pipelines & Video Generativo</b></summary>
+<br>
+
+`ComfyUI` `FLUX` `Kling` `Runway Gen-3` `Luma Dream Machine` `Midjourney` `ElevenLabs` `Edge TTS` `FFmpeg` `n8n`
+</details>
+
+<details open>
+<summary><b>Diseño, Motion & 3D</b></summary>
+<br>
+
+`Figma` `Framer` `Rive` `Spline` `Principle` `After Effects` `Design Tokens (W3C / Style Dictionary)`
+</details>
+
+<details>
+<summary><b>Tooling, CI/CD & Workflow</b></summary>
+<br>
+
+`Git / GitHub` `Storybook` `Chromatic` `Vercel` `Linear` `Notion` `Obsidian`
+</details>
+
+---
+
+## 🚀 Proyectos Destacados
 
 ### 🎬 AI Video Ads Pipeline
-> Sistema automatizado para generar creativos de video con IA a escala para campañas de performance marketing
-- **Stack:** ComfyUI + FLUX + Kling API + Edge TTS + FFmpeg + n8n
-- **Output:** 50+ variantes de video/día para testing A/B en Meta/TikTok Ads
-
-### 🎨 Design System Components Library
-> Librería de componentes React/TypeScript con design tokens, motion y documentación automática
-- **Stack:** React + TypeScript + Tailwind + Framer Motion + Storybook + Chromatic
-- **Features:** Tokens sincronizados desde Figma (Figma Tokens/Style Dictionary), dark mode, a11y
-
-### 🌐 Interactive Product Prototypes
-> Prototipos navegables de productos SaaS y e-commerce para validación con usuarios reales
-- **Stack:** Next.js + Framer Motion + Sanity/Contentful + Vercel Analytics
-- **Entregable:** Prototipo funcional + spec técnico para desarrollo
+> **Sistema automatizado para generación masiva de creativos de video con IA para performance marketing.**
+- **Problema:** Los tiempos y costos de producción manual limitan el volumen de testing creativo en campañas de paid media.
+- **Solución:** Pipeline modular orquestado que genera variantes visuales, locución sintética y renderizado automatizado de subtítulos y composiciones.
+- **Stack:** `ComfyUI` · `FLUX` · `Kling API` · `Edge TTS` · `FFmpeg` · `n8n`
+- **Output:** Capacidad para procesar 50+ variantes diarias para experimentación A/B en Meta y TikTok Ads.
 
 ---
 
-## 📈 En qué estoy trabajando ahora
-
-- 🔬 **R&D:** Pipelines de video generativo para marketing (image-to-video, keyframe control, audio sync)
-- 🎓 **Learning:** Three.js/React Three Fiber para experiencias 3D web, GSAP advanced animations
-- 🤝 **Open to:** Colaboraciones con agencias creativas, design systems para scale-ups, MVPs con founders técnicos
-
----
-
-## 🎯 Objetivos 2025
-
-- [ ] Consolidar portfolio de **AI video/ads** con casos reales de performance
-- [ ] Publicar **design system open source** con tokens + motion + a11y
-- [ ] Landing **Design Engineer role** en agencia/product company España/LATAM
-- [ ] Crear **curso/workshop** de "Design Engineering para designers que codean"
+### 🎨 Modular Design System & Token Architecture
+> **Librería de componentes React/TypeScript con sincronización automatizada de tokens y documentación viva.**
+- **Problema:** Desalineación entre componentes de Figma y la base de código frontend durante los handoffs de producto.
+- **Solución:** Flujo de trabajo centralizado donde los tokens de Figma se compilan a variables CSS y TypeScript, integrando estados de accesibilidad (WCAG) y motion presets.
+- **Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Storybook` · `Chromatic`
+- **Features:** Soporte nativo para Dark/Light mode, tokens estructurados y visual testing automatizado.
 
 ---
 
-## 🌍 Conectemos
-
-| Plataforma | Link |
-|------------|------|
-| **GitHub** | [@DanielDobles](https://github.com/DanielDobles) |
-| **LinkedIn** | [Daniel Dobles](https://linkedin.com/in/danieldobles) |
-| **Portfolio/Web** | [danieldobles.dev](https://danieldobles.dev) |
-| **Behance** | [Daniel Dobles](https://behance.net/danieldobles) |
-| **X/Twitter** | [@DanielDobl3s](https://twitter.com/DanielDobl3s) |
-| **Email** | hola@danieldobles.dev |
+### 🌐 High-Fidelity Product Prototypes
+> **Prototipos funcionales basados en código para validación de experiencia en SaaS y E-commerce.**
+- **Problema:** Prototipos estáticos que no permiten testear interacciones complejas, estados asíncronos ni flujos de datos reales.
+- **Solución:** Interfaces navegables conectadas a headless CMS con animaciones de layout y telemetría de interacción.
+- **Stack:** `Next.js` · `Framer Motion` · `Sanity / Contentful` · `Vercel Analytics`
+- **Entregable:** Prototipo interactivo navegable + documentación de arquitectura e interacción para ingeniería.
 
 ---
 
-> **"Design is not just what it looks like. Design is how it works — and how it feels in motion."**  
-> *Abierto a conversaciones sobre design engineering, AI creativo, y producto digital. ¿Hablamos? ☕*
+## 🔬 Enfoque Actual & R&D
+
+- 🎥 **Video Generativo:** Investigación en control temporal de keyframes, interpolación de movimiento y sincronización labial/audio automatizada.
+- 🧊 **Creative Web:** Exploración de shaders GLSL y experiencias 3D optimizadas en navegador usando Three.js / React Three Fiber.
+- 🤝 **Colaboraciones:** Disponible para proyectos de Design Systems, prototipado de MVPs con founders técnicos y producción creativa con IA.
+
+---
+
+## 💬 Conectemos
+
+<div align="center">
+
+¿Tienes un proyecto en mente o quieres conversar sobre design engineering y creatividad generativa?
+
+[![Email](https://img.shields.io/badge/Enviar_un_correo-hola@danieldobles.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@danieldobles.dev)
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-Daniel_Dobles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldobles)
+
+</div>
+
+---
+
+<div align="center">
+<sub><i>"Design is not just what it looks like. Design is how it works — and how it feels in motion."</i></sub>
+</div>
+
+```
+
+---
+
+### 📌 Recomendaciones adicionales para tu perfil
+
+1. **Media visual en repositorios fijados (Pinned Repos)**:
+* Para tus 3 o 4 repositorios principales, añade un GIF corto (o video MP4 comprimido) en el `README.md` de cada repo mostrando la interacción o el pipeline en ejecución. Los reclutadores y clientes que buscan *Design Engineers* valoran inmediatamente la demostración visual.
+
+
+2. **Estandarización de badges**:
+* Usar badges oscuros y uniformes ayuda a que el perfil se vea pulido tanto en el modo claro como en el modo oscuro de GitHub.
+
+
+3. **Sección expandible para tooling secundario**:
+* El uso de etiquetas `<details>` mantiene limpio el scroll principal mientras permite a los visitantes técnicos revisar tus herramientas completas si lo desean.
