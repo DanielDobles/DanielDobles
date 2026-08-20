@@ -1,95 +1,104 @@
-
 <div align="center">
 
 # 👋 Hola, soy Daniel Dobles
 
-**Design Engineer & Creative Technologist**  
-*Uniendo la precisión del diseño de producto con la arquitectura de código y pipelines de IA generativa.*
+**Creative Technologist & Design Engineer**  
+*Uniendo ingeniería de audio DSP, diseño de producto y pipelines de video generativo con IA.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Dobles-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldobles)
-[![Behance](https://img.shields.io/badge/Behance-armonia__push-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/armonia_push)
+[LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Portfolio](https://danieldobles.dev) · [Email](mailto:armoniapush@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Especialidad y Propuesta de Valor
+## 🧭 Perfil y Propuesta de Valor
 
-| Área | Enfoque & Capacidades |
+Soy un **Creative Technologist** con un background híbrido que conecta más de 10 años en diseño visual y acústica/audio profesional con arquitecturas modernas de desarrollo y modelos de IA generativa.
+
+Mi enfoque está en **construir la infraestructura y las herramientas de la próxima generación de productos creativos**: desde herramientas DSP en C++/Python y librerías de componentes UI, hasta pipelines automatizados de video generativo y renderizado programático.
+
+---
+
+## 🎯 Pilares de Especialidad
+
+| Área | Enfoque & Capacidades Clave |
 |---|---|
-| ⚙️ **Design Engineering** | Cierre de brecha entre diseño y frontend: bibliotecas de componentes accesibles, sincronización de design tokens y microinteracciones fluidas. |
-| 🤖 **AI Video & Creative Automation** | Arquitectura de pipelines generativos para producción audiovisual y creativos publicitarios a escala (image-to-video, control de keyframes y batch processing). |
-| 🌐 **Prototipado Interactivo Avanzado** | Prototipos de alta fidelidad con datos dinámicos en código para validar experiencias complejas y flujos SaaS antes de desarrollo. |
-| 📐 **Product Design & Systems** | Diseño de interfaces end-to-end, arquitectura de información y sistemas de diseño escalables. |
+| 🤖 **AI Video & Creative Pipelines** | Arquitectura de flujos generativos (Runway, Kling, ComfyUI/FLUX, Veo) integrados con renderizado programático en **Remotion (React)** y automatización con Python/FFmpeg para producción de ads a escala. |
+| 🎛️ **Audio DSP & Psicoacústica** | Procesamiento de señales digitales (DSP), algoritmos de análisis espectral (FFT) en **C++ / Python**, sound branding táctil, diseño de foley y masterización de grado audiófilo. |
+| ⚙️ **Design Engineering & UI/UX** | Sistemas de diseño estructurados, sincronización de design tokens (Figma to Code), interfaces de alta densidad informativa (Dark Mode nativo / estética táctica y brutalista) y microinteracciones fluidas. |
+| 🧠 **Agentic Workflows & Automation** | Orquestación de sistemas multi-agente y pipelines de generación textual/visual mediante scripts locales, APIs de LLMs y automatización de activos digitales. |
 
 ---
 
 ## 🛠 Stack Tecnológico
 
-<details open>
-<summary><b>Frontend & Motion Engineering</b></summary>
-<br>
+### 🤖 AI Generativa & Pipelines de Video
+`Google Gen AI (Veo, Omni)` `Kling AI` `Runway Gen-3` `ComfyUI` `FLUX` `Midjourney` `Remotion (React)` `FFmpeg` `MoviePy`
 
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `GSAP` `Three.js / R3F` `Astro` `HTML5 / Semantic Web`
-</details>
+### 💻 Desarrollo, Frontend & DSP
+`Python` `TypeScript` `React / Next.js` `Tailwind CSS` `Framer Motion` `C++ (Audio DSP)` `Librosa / SciPy` `Git` `Astro`
 
-<details open>
-<summary><b>AI Pipelines & Video Generativo</b></summary>
-<br>
+### 🎚️ Audio Engineering, Foley & Post-Producción
+`FL Studio 21` `Spectral Analysis (FFT)` `Transient-aligned Foley` `Sound Physics & Calibration (ES2A)` `Mixing & Mastering` `ElevenLabs`
 
-`ComfyUI` `FLUX` `Kling` `Runway Gen-3` `Luma Dream Machine` `Midjourney` `ElevenLabs` `Edge TTS` `FFmpeg` `n8n`
-</details>
-
-<details open>
-<summary><b>Diseño, Motion & 3D</b></summary>
-<br>
-
-`Figma` `Framer` `Rive` `Spline` `Principle` `After Effects` `Design Tokens (W3C / Style Dictionary)`
-</details>
-
-<details>
-<summary><b>Tooling, CI/CD & Workflow</b></summary>
-<br>
-
-`Git / GitHub` `Storybook` `Chromatic` `Vercel` `Linear` `Notion` `Obsidian`
-</details>
+### 🎨 Diseño, Sistemas & Workflow
+`Figma (Design Tokens / Auto Layout)` `Adobe Photoshop (ACA Certified)` `Premiere Pro` `CapCut Desktop` `Storybook` `Linear` `Notion`
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🎬 AI Video Ads Pipeline
-> **Sistema automatizado para generación masiva de creativos de video con IA para performance marketing.**
-- **Problema:** Los tiempos y costos de producción manual limitan el volumen de testing creativo en campañas de paid media.
-- **Solución:** Pipeline modular orquestado que genera variantes visuales, locución sintética y renderizado automatizado de subtítulos y composiciones.
-- **Stack:** `ComfyUI` · `FLUX` · `Kling API` · `Edge TTS` · `FFmpeg` · `n8n`
-- **Output:** Capacidad para procesar 50+ variantes diarias para experimentación A/B en Meta y TikTok Ads.
+### 🎬 Programmatic AI Video Ads Engine
+> **Pipeline automatizado de generación y ensamblaje de creativos publicitarios con IA para performance marketing.**
+
+**Contexto** — Producción de campañas de alto impacto (*Pathfindher FW26*, *Aetheria*) reduciendo fricción entre guion, generación visual y post-producción sonora.
+
+**Arquitectura** — Modelos de difusión visual (`Kling` / `FLUX` / `ComfyUI`) + renderizado cinético programático en `Remotion (React)` + diseño de audio táctil y foley alineado a transitorios en `FL Studio`.
+
+**Stack** — `Python` · `Remotion` · `React` · `FFmpeg` · `ComfyUI` · `FL Studio 21`
+
+**Impacto** — Generación y exportación de múltiples variantes A/B diarias con tipografía cinética y audio profesional sincronizado.
 
 ---
 
-### 🎨 Modular Design System & Token Architecture
-> **Librería de componentes React/TypeScript con sincronización automatizada de tokens y documentación viva.**
-- **Problema:** Desalineación entre componentes de Figma y la base de código frontend durante los handoffs de producto.
-- **Solución:** Flujo de trabajo centralizado donde los tokens de Figma se compilan a variables CSS y TypeScript, integrando estados de accesibilidad (WCAG) y motion presets.
-- **Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Storybook` · `Chromatic`
-- **Features:** Soporte nativo para Dark/Light mode, tokens estructurados y visual testing automatizado.
+### 🎛️ Spectral Phase Corrector
+> **Herramienta DSP en C++ para corrección de fase y coherencia espectral en tiempo real.**
+
+**Problema** — Cancelaciones de fase microscópicas en grabaciones complejas multimicrófono que degradan el rango dinámico y la claridad estéreo.
+
+**Solución** — Utilidad de procesamiento de audio en dominio espectral que detecta y rota la fase en bandas críticas mediante Transformadas Rápidas de Fourier (FFT) sin alterar la coloración tonal original.
+
+**Stack** — `C++` · `Audio DSP` · `Spectral Domain Analysis (FFT)` · `JUCE / VST Architecture`
+
+**Aplicación** — Utilidad quirúrgica para ingenieros de mezcla y restauración de audio.
 
 ---
 
-### 🌐 High-Fidelity Product Prototypes
-> **Prototipos funcionales basados en código para validación de experiencia en SaaS y E-commerce.**
-- **Problema:** Prototipos estáticos que no permiten testear interacciones complejas, estados asíncronos ni flujos de datos reales.
-- **Solución:** Interfaces navegables conectadas a headless CMS con animaciones de layout y telemetría de interacción.
-- **Stack:** `Next.js` · `Framer Motion` · `Sanity / Contentful` · `Vercel Analytics`
-- **Entregable:** Prototipo interactivo navegable + documentación de arquitectura e interacción para ingeniería.
+### 🧠 Spectral Affinity
+> **Indexador y clasificador neuronal de librerías de audio mediante Machine Listening.**
+
+**Problema** — Los productores navegan catálogos de cientos de miles de muestras clasificados únicamente por nombres de archivo y BPM rígidos.
+
+**Solución** — Red neuronal de análisis tímbrico que indexa y agrupa muestras sonoras según densidad armónica, transitorios y textura perceptual sin modificar los metadatos originales.
+
+**Stack** — `Python` · `Librosa` · `SciPy` · `Machine Listening` · `Embedding Clusters`
+
+---
+
+### ⚡ Antigravity: Autonomous Multi-Agent CLI
+> **Pipeline de orquestación de agentes locales para acelerar flujos creativos y transcodificación de activos.**
+
+**Solución** — Sistema modular que conecta agentes especializados para desglosar briefs creativos, redactar guiones técnicos, generar cadenas de prompts consistentes y gestionar la ingesta/transcodificación por lotes de video y audio.
+
+**Stack** — `Python` · `LLM Prompt Chains` · `Agentic Architecture` · `CLI Automation`
 
 ---
 
 ## 🔬 Enfoque Actual & R&D
 
-- 🎥 **Video Generativo:** Investigación en control temporal de keyframes, interpolación de movimiento y sincronización labial/audio automatizada.
-- 🧊 **Creative Web:** Exploración de shaders GLSL y experiencias 3D optimizadas en navegador usando Three.js / React Three Fiber.
-- 🤝 **Colaboraciones:** Disponible para proyectos de Design Systems, prototipado de MVPs con founders técnicos y producción creativa con IA.
+- 🧬 **Latent Space & Motion Consistency** — Control milimétrico de keyframes e interpolación de movimiento para video generado por IA.
+- 🎛️ **Audio Infrastructure Micro-SaaS** — Desarrollo de utilidades ligeras de procesamiento de señal y gestión inteligente de sonido para creadores.
+- 📐 **Tactile & Brutalist UI Systems** — Diseño de interfaces de alta densidad funcional con estética oscura, arquitectura de tokens W3C y microinteracciones de precisión.
 
 ---
 
@@ -97,32 +106,48 @@
 
 <div align="center">
 
-¿Tienes un proyecto en mente o quieres conversar sobre design engineering y creatividad generativa?
+¿Interesado en colaborar en pipelines de IA generativa, herramientas DSP o sistemas de diseño técnico?
 
-[![Email](https://img.shields.io/badge/Enviar_un_correo-hola@danieldobles.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@danieldobles.dev)
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-Daniel_Dobles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldobles)
+[LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-<sub><i>"Design is not just what it looks like. Design is how it works — and how it feels in motion."</i></sub>
-</div>
 
-```
+<sub><i>"La verdadera innovación no ocurre en los silos tradicionales, sino en la intersección exacta entre la física del sonido, la estética visual y la arquitectura del código."</i></sub>
+
+</div>
 
 ---
 
-### 📌 Recomendaciones adicionales para tu perfil
+<div align="center">
 
-1. **Media visual en repositorios fijados (Pinned Repos)**:
-* Para tus 3 o 4 repositorios principales, añade un GIF corto (o video MP4 comprimido) en el `README.md` de cada repo mostrando la interacción o el pipeline en ejecución. Los reclutadores y clientes que buscan *Design Engineers* valoran inmediatamente la demostración visual.
+### 🛠 Herramientas & Entorno
 
+| Categoría | Herramientas |
+|---|---|
+| **IDE & Editor** | VS Code · Cursor · Zed · Neovim |
+| **Terminal & Shell** | Warp · Ghostty · Fish · Zsh · tmux |
+| **Version Control** | Git · GitHub CLI · GitKraken · Lazygit |
+| **API & Testing** | Postman · Bruno · Hoppscotch · cURL |
+| **Design & Prototyping** | Figma · FigJam · Framer · Principle · Rive · Spline |
+| **CI/CD & Deploy** | Vercel · Netlify · GitHub Actions · Railway · Fly.io |
+| **Database & CMS** | PostgreSQL · SQLite · Turso · Sanity · Contentful · PocketBase |
+| **Observability** | Sentry · LogRocket · Vercel Analytics · Plausible |
+| **Productivity** | Linear · Notion · Obsidian · Raycast · Alfred · 1Password |
 
-2. **Estandarización de badges**:
-* Usar badges oscuros y uniformes ayuda a que el perfil se vea pulido tanto en el modo claro como en el modo oscuro de GitHub.
+</div>
 
+---
 
-3. **Sección expandible para tooling secundario**:
-* El uso de etiquetas `<details>` mantiene limpio el scroll principal mientras permite a los visitantes técnicos revisar tus herramientas completas si lo desean.
+<div align="center">
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielDobles&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDobles&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+</div>
