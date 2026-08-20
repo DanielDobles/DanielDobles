@@ -1,60 +1,86 @@
-# 👋 Hello! I'm Daniel
+# 👋 Hola, soy Daniel Dobles
 
-I'm a fantasy novelist, sound designer, and data science student with a deep interest in world simulation, artificial intelligence, and digital audio processing. I combine **storytelling, coding, and design** to craft immersive fictional universes, both narratively and sonically.
+**Design Engineer** — Web prototyping · Product design · AI video/ads · Design engineering
 
-## 🌌 My Vision: Crafting Worlds Beyond Imagination
-
-I believe that great stories are ecosystems—alive, evolving, and interconnected. My goal is to build **worlds that simulate themselves**, using procedural systems for cultures, mythologies, lineages, and economies. I approach fiction as a scientific experiment wrapped in emotion, intuition, and symbolic resonance.
-
-## 💻 Current Project: VST Plugin Development in C++ (JUCE)
-
-I'm currently working on my first **audio plugin (VST)** using the **JUCE framework in C++**.  
-This project merges my background in music production with my growing expertise in C++ and audio DSP (Digital Signal Processing).  
-The goal is to create a unique tool that reflects my creative philosophy—offering sound design that's emotional, experimental, and technically solid.
-
-## 🎵 Creative-Technological Profile
-
-| Area                | Description |
-|---------------------|-------------|
-| 🎧 **Music Production** | Over 10 years producing indie, ambient and experimental music. Currently focused on DSP design and plugin development. |
-| 📚 **Fantasy Worldbuilding** | Creating characters, magic systems, and procedurally generated societies and mythologies. |
-| 🧠 **AI & Simulation** | Exploring Python, C++ and machine learning to simulate societies, lineages, and dynamic world histories. |
-| 🎨 **Design & UX** | Skilled in storytelling-driven interface design. You can check my work on [Behance](https://www.behance.net/danieldobles). |
-
-## 🚧 Projects in Development
-
-- **🎛 VST Audio Plugin (JUCE, C++)**
-  - Digital audio effect aimed at enhancing creative workflows for producers and sound designers.
-  - Focus on spectral manipulation, intuitive UI, and a vibe-based coding approach.
-  
-- **🌐 Procedural World Simulation (Python)**
-  - Simulates genealogies, cultural shifts, and evolving societies.
-  - Goal: to embed living systems inside fictional narratives.
-
-- **🔤 Procedural Language Generator**
-  - Tool for inventing languages and name systems that feel organically tied to each culture.
-
-## 📈 Learning & Growth
-
-Currently studying:
-- **Data Science with Python (Platzi)**
-- **C++ for Audio Programming**
-- **AI applications for creative writing and simulation**
-
-## 🎯 Future Goals
-
-- Launch my first commercial audio plugin.
-- Publish worldbuilding tools for other writers and creators.
-- Develop AI systems that assist in story development, lore generation, and cultural simulation.
-
-## 🌐 Let’s Connect
-
-- **GitHub**: You're here :)
-- **Behance**: [Daniel Dobles](https://www.behance.net/danieldobles)
-- **X (Twitter)**: [@DanielDobl3s](https://twitter.com/DanielDobl3s)
-- **TikTok**: [@daniel_dobles](https://www.tiktok.com/@daniel_dobles)
-- **Facebook**: [Daniel Dobles](https://www.facebook.com/daniel.dobles.33)
+Busco oportunidades en **España (Barcelona/Madrid) y LATAM** (México, Colombia, Argentina, Chile, Brasil) como **Design Engineer** en agencias de marketing y empresas de producto. También abierto a **freelance/consulting** para agencias y startups que necesiten servicios de diseño + IA.
 
 ---
 
-Thank you for stopping by. If you're passionate about the crossroads of art, technology, and storytelling, I'm always open to exchanging ideas, collaborating, or just vibing creatively. 🚀
+## 🎯 Qué hago
+
+| Área | Descripción |
+|------|-------------|
+| 🌐 **Web Prototyping** | Prototipos interactivos de alta fidelidad (Figma, Framer, React/Next.js, Tailwind) |
+| 🎨 **Product Design** | Sistemas de diseño, design systems, UI/UX para productos digitales end-to-end |
+| 🤖 **AI Video/Ads** | Generación de video y creativos publicitarios con IA (Runway, Sora, Kling, ComfyUI, FLUX) |
+| ⚙️ **Design Engineering** | Puentes diseño-código: componentes React, motion design, handoff técnico, design tokens |
+
+---
+
+## 🛠 Stack técnico
+
+**Design & Prototyping**  
+`Figma` `Framer` `Principle` `Rive` `Spline` `After Effects`
+
+**Frontend / Code**  
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `GSAP` `Three.js` `Astro`
+
+**AI & Generative**  
+`Runway Gen-3` `Kling` `Luma Dream Machine` `ComfyUI` `FLUX` `Midjourney` `Suno` `ElevenLabs` `Edge TTS`
+
+**Tooling & Workflow**  
+`Git/GitHub` `Vercel` `Netlify` `Storybook` `Chromatic` `Linear` `Notion` `Obsidian`
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🎬 AI Video Ads Pipeline
+> Sistema automatizado para generar creativos de video con IA a escala para campañas de performance marketing
+- **Stack:** ComfyUI + FLUX + Kling API + Edge TTS + FFmpeg + n8n
+- **Output:** 50+ variantes de video/día para testing A/B en Meta/TikTok Ads
+
+### 🎨 Design System Components Library
+> Librería de componentes React/TypeScript con design tokens, motion y documentación automática
+- **Stack:** React + TypeScript + Tailwind + Framer Motion + Storybook + Chromatic
+- **Features:** Tokens sincronizados desde Figma (Figma Tokens/Style Dictionary), dark mode, a11y
+
+### 🌐 Interactive Product Prototypes
+> Prototipos navegables de productos SaaS y e-commerce para validación con usuarios reales
+- **Stack:** Next.js + Framer Motion + Sanity/Contentful + Vercel Analytics
+- **Entregable:** Prototipo funcional + spec técnico para desarrollo
+
+---
+
+## 📈 En qué estoy trabajando ahora
+
+- 🔬 **R&D:** Pipelines de video generativo para marketing (image-to-video, keyframe control, audio sync)
+- 🎓 **Learning:** Three.js/React Three Fiber para experiencias 3D web, GSAP advanced animations
+- 🤝 **Open to:** Colaboraciones con agencias creativas, design systems para scale-ups, MVPs con founders técnicos
+
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] Consolidar portfolio de **AI video/ads** con casos reales de performance
+- [ ] Publicar **design system open source** con tokens + motion + a11y
+- [ ] Landing **Design Engineer role** en agencia/product company España/LATAM
+- [ ] Crear **curso/workshop** de "Design Engineering para designers que codean"
+
+---
+
+## 🌍 Conectemos
+
+| Plataforma | Link |
+|------------|------|
+| **GitHub** | [@DanielDobles](https://github.com/DanielDobles) |
+| **LinkedIn** | [Daniel Dobles](https://linkedin.com/in/danieldobles) |
+| **Portfolio/Web** | [danieldobles.dev](https://danieldobles.dev) |
+| **Behance** | [Daniel Dobles](https://behance.net/danieldobles) |
+| **X/Twitter** | [@DanielDobl3s](https://twitter.com/DanielDobl3s) |
+| **Email** | hola@danieldobles.dev |
+
+---
+
+> **"Design is not just what it looks like. Design is how it works — and how it feels in motion."**  
+> *Abierto a conversaciones sobre design engineering, AI creativo, y producto digital. ¿Hablamos? ☕*
