@@ -7,10 +7,7 @@
 *Uniendo la precisión del diseño de producto con la arquitectura de código y pipelines de IA generativa.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Dobles-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldobles)
-[![Portfolio](https://img.shields.io/badge/Portfolio-danieldobles.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://danieldobles.dev)
 [![Behance](https://img.shields.io/badge/Behance-armonia__push-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/armonia_push)
-[![X / Twitter](https://img.shields.io/badge/X-@DanielDobl3s-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/DanielDobl3s)
-[![Email](https://img.shields.io/badge/Email-hola@danieldobles.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hola@danieldobles.dev)
 
 </div>
 
