@@ -1,12 +1,20 @@
 <div align="center">
 
+soy Daniel Dobles
+
+**Creative Technologist & Design Engineer**  
+*Uniendo ingeniería de audio DSP, diseño de producto y pipelines de video generativo con IA.*
+
+<div align="center">
+
 # 👋 Hola, soy Daniel Dobles
 
 **Creative Technologist & Design Engineer**  
 *Uniendo ingeniería de audio DSP, diseño de producto y pipelines de video generativo con IA.*
 
-[LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
+[GitHub Principal](https://github.com/DanielDobles) · [GitHub Secundario](https://github.com/TU_OTRA_CUENTA) · [LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
 
+</div>
 </div>
 
 ---
