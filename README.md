@@ -5,7 +5,7 @@
 **Creative Technologist & Design Engineer**  
 *Uniendo ingeniería de audio DSP, diseño de producto y pipelines de video generativo con IA.*
 
-[LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Portfolio](https://danieldobles.dev) · [Email](mailto:armoniapush@gmail.com)
+[LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
 
 </div>
 
