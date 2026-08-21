@@ -1,20 +1,12 @@
 <div align="center">
 
-soy Daniel Dobles
-
-**Creative Technologist & Design Engineer**  
-*Uniendo ingeniería de audio DSP, diseño de producto y pipelines de video generativo con IA.*
-
-<div align="center">
-
 # 👋 Hola, soy Daniel Dobles
 
 **Creative Technologist & Design Engineer**  
 *Uniendo ingeniería de audio DSP, diseño de producto y pipelines de video generativo con IA.*
 
-[GitHub Principal](https://github.com/DanielDobles) · [GitHub Secundario](https://github.com/TU_OTRA_CUENTA) · [LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
+[GitHub Principal](https://github.com/armoniapush) · [GitHub Personal](https://github.com/DanielDobles) · [LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
 
-</div>
 </div>
 
 ---
@@ -116,7 +108,7 @@ Mi enfoque está en **construir la infraestructura y las herramientas de la pró
 
 ¿Interesado en colaborar en pipelines de IA generativa, herramientas DSP o sistemas de diseño técnico?
 
-[LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
+[GitHub Principal](https://github.com/armoniapush) · [GitHub Personal](https://github.com/DanielDobles) · [LinkedIn](https://linkedin.com/in/danieldobles) · [Behance](https://behance.net/armonia_push) · [Email](mailto:armoniapush@gmail.com)
 
 </div>
 
@@ -154,8 +146,13 @@ Mi enfoque está en **construir la infraestructura y las herramientas de la pró
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielDobles&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+#### Principal (@armoniapush)
+![GitHub Stats Main](https://github-readme-stats.vercel.app/api?username=armoniapush&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDobles&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+#### Personal / Secundario (@DanielDobles)
+![GitHub Stats Personal](https://github-readme-stats.vercel.app/api?username=DanielDobles&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armoniapush&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
+```
